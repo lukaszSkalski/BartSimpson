@@ -1,0 +1,74 @@
+.widthEight {
+	width: 1140px;
+	padding: 0px;
+
+
+}
+
+.allignCenter {
+
+	margin: 0 auto;
+}
+
+.nonBottom {
+	margin-bottom: 0;
+}
+
+.widthOK {
+
+	background: rgb(206, 219, 80);
+}
+
+.widthHelp {
+	background: rgb(206, 219, 80);
+	margin-bottom:  11px;
+
+}
+.muveCenter {
+	display: block;
+	text-align: center;
+	height: 200px;
+	font-size: 70px;
+	color: black;
+	padding-top: 40px;
+}
+.muveCenter p {
+	font-size: 30px;
+}
+.muveText {
+	text-align: center;
+}
+
+.changeColor {
+	padding-top: 20px;
+	background: rgb(155, 169, 79)
+}
+
+.last p{
+	font-weight: 900;
+}
+.last {
+	display: block;
+	line-height: 20px;
+}
+
+
+.changeColor ol li p{
+	font-size: 15px;
+
+}
+.changeColor ol li{
+	font-size: 35px;
+
+}
+.theLast {
+	position: relative;
+	background: #D3D3D3;
+	height: 60px;
+	font-size: 20px;
+	line-height: 60px;
+	
+} 
+
+
+
